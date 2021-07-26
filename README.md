@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working in Tencent(腾讯)
+- 👯 I’m currently living in Shenzhen, China.
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=moonchasing&show_icons=true)
